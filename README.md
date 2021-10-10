@@ -4,4 +4,4 @@
 | [Maps1][1]
 +---------+---------+
 
-  [1]: \Maps\Map1.md
+  [1]: https://github.com/SuhaibAtef/JUST-Guides/blob/main/Maps/Map1.md
